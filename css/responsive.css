@@ -187,6 +187,7 @@
 
     .best_img::after, .croos_rt::after {
         background: inherit;
+        width: 100%;
     }
 
     .carousel-indicators {
@@ -230,6 +231,7 @@
 
     .best_img::after, .croos_rt::after {
         background: inherit;
+        width: 100%;
     }
 
     .img_box::after {
@@ -283,6 +285,7 @@
 
     .best_img::after, .croos_rt::after {
         background: inherit;
+        width: 100%;
     }
 
     .carousel-indicators {
@@ -351,6 +354,7 @@
 
     .best_img::after, .croos_rt::after {
         background: inherit;
+        width: 100%;
     }
 
     .call_now span {
@@ -376,7 +380,6 @@
     }
 
     .best_img figure {
-        /*margin: 100px;*/
         display: none;
     }
 
