@@ -188,6 +188,7 @@
     .best_img::after, .croos_rt::after {
         background: inherit;
         width: 100%;
+        height: auto;
     }
 
     .carousel-indicators {
@@ -232,6 +233,7 @@
     .best_img::after, .croos_rt::after {
         background: inherit;
         width: 100%;
+        height: auto;
     }
 
     .img_box::after {
@@ -286,6 +288,7 @@
     .best_img::after, .croos_rt::after {
         background: inherit;
         width: 100%;
+        height: auto;
     }
 
     .carousel-indicators {
@@ -355,6 +358,7 @@
     .best_img::after, .croos_rt::after {
         background: inherit;
         width: 100%;
+        height: auto;
     }
 
     .call_now span {
