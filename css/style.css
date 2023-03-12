@@ -11,7 +11,7 @@
  @import url(font-awesome.min.css);
  @import url(meanmenu.css);
  @import url(owl.carousel.min.css);
- @import url(swiper.min.css);
+ /*@import url(swiper.min.css);*/
  @import url(slick.css);
  @import url(jquery-ui.css);
  @import url(nice-select.css);
@@ -1023,26 +1023,30 @@
 }
  
  .text-bg span {
-    font-size:25px;
+     font-size: 25px;
      display: block;
      color: #000;
      line-height: 35px;
-     padding-bottom: 50px;
+     background-color: rgb(0 0 0 / 37%);
+     border-radius: 10px;
+     padding: 20px;
+     margin-bottom: 30px;
+     -webkit-box-shadow: 0 0 0 3px rgb(238 232 172 / 72%) inset;
 }
 
 .land_bold {color: #fff;}
  .text-bg a {
     font-size: 16px;
-     margin-right: 10px;
-     background-color: #fff;
-     color: #000;
-     padding: 10px 40px;
-     border-radius: 27px;
-     display: inline-block;
+    margin-right: 10px;
+    background-color: #fff;
+    color: #1aab3b;
+    padding: 10px 40px;
+    border-radius: 27px;
+    display: inline-block;
 }
  .text-bg a:hover {
-    background-color: #000;
-     color: #fff;
+     background-color: #28a745;
+     color: #ffffff;
 }
  .text {
     position: inherit;
@@ -1072,7 +1076,7 @@
 }
  
  .slider_section {
-     padding-top: 134px;
+     /*padding-top: 134px;*/
 }
  
  
